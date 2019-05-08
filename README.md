@@ -9,4 +9,8 @@ Feel free to contribute or suggest ideas.
 
 
 
-See this page for workflow guidelines: https://githubflow.github.io
+Workflow guidelines/resources: 
+
+General workflow - https://githubflow.github.io
+More detailed - https://yangsu.github.io/pull-request-tutorial/
+Using Git from command line - https://www.youtube.com/watch?v=HVsySz-h9r4
