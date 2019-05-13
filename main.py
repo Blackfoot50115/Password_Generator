@@ -40,6 +40,7 @@ class BuildGui:
 
         password = gen.gen_rand_password(self.password_length)
         export.append_file(password, path)
+
         self.lbl.configure(text="Your password has been created")
 
 
