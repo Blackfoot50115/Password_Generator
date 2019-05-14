@@ -1,6 +1,5 @@
-import gen_rand_password as gen
 from tkinter import *
-import Export_To_File as export
+from modules import Export_To_File as export, gen_rand_password as gen
 from configparser import SafeConfigParser
 
 
