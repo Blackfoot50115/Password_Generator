@@ -14,3 +14,4 @@ Workflow guidelines/resources:
 General workflow - https://githubflow.github.io
 More detailed - https://yangsu.github.io/pull-request-tutorial/
 Using Git from command line - https://www.youtube.com/watch?v=HVsySz-h9r4
+Another great overview of the basic git commands and workflow - https://rogerdudler.github.io/git-guide/
