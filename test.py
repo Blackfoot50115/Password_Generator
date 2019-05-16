@@ -8,8 +8,6 @@ class ExportToFileTestCase(unittest.TestCase):
     def test_append_file(self):
         pass
 
-class GenRandPasswordTestCase(unittest.TestCase):
-
     def test_gen_rand_password(self):
         pass
 
